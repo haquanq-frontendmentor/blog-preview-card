@@ -14,7 +14,7 @@ Users should be able to:
 - Built with: `HTML` `CSS`
 - Mobile first workflow
 
-:link: [`Solution Link`]() :link: [`Live Site Link`]()
+:link: [`Solution Link`](https://www.frontendmentor.io/solutions/only-html-and-css-k0u_WAO-3A) :link: [`Live Site Link`](https://haquanq.github.io/fm-blog-preview-card/)
 
 ![](./.docs/design/desktop-design.jpg)
 
