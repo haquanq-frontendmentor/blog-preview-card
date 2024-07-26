@@ -4,33 +4,45 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- displays site properly based on user's device -->
-
     <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Space+Grotesk:wght@500&display=swap"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="./main.css" />
 
     <title>Frontend Mentor | Blog preview card</title>
   </head>
   <body>
-    <main>
-      <article class="card-wrapper">
+    <main class="main__container">
+      <article class="card">
         <img
-          class="card-img"
+          class="card__image"
           src="./assets/images/illustration-article.svg"
           alt="Article illustration"
+          aria-hidden="true"
         />
-        <div class="card-content">
-          <span class="category">Learning</span>
-          <p class="date">Published 21 Dec 2023</p>
-          <h1 class="title"><a href="">HTML & CSS foundations</a></h1>
-          <div class="card-backdrop"></div>
-          <p class="description">
+        <div class="card__content">
+          <strong class="card__category">Learning</strong>
+          <time class="card__date">Published 21 Dec 2023</time>
+          <h1 class="card__title">
+            <a class="card__title__link" href="">HTML & CSS foundations</a>
+          </h1>
+          <span class="card__backdrop"></span>
+          <p class="card__description">
             These languages are the backbone of every website, defining structure, content, and
             presentation.
           </p>
         </div>
-        <div class="card-author">
-          <img src="./assets/images/image-avatar.webp" alt="Greg Hooper avatar" />
-          <p>Greg Hooper</p>
+        <div class="card__author">
+          <img
+            class="card__author__image"
+            src="./assets/images/image-avatar.webp"
+            alt="Greg Hooper profile picture"
+          />
+          <p class="card__author__name">Greg Hooper</p>
         </div>
       </article>
     </main>
