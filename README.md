@@ -6,8 +6,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ## Table of contents
 
 - [Project overview](#rocket-project-overview)
-- [My workflow](#boat-my-workflow)
-- [How to work in this repository](#astronaut-how-to-work-in-this-repository)
+- [Development workflow](#boat-development-workflow)
+- [Working in this repository](#astronaut-working-in-fm-blog-preview-card-repository)
 - [License](#page_with_curl-license)
 
 ## :rocket: Project overview
@@ -21,13 +21,13 @@ Non-functional requirement:
 
 ### Implemented features
 
-- See hover and focus states for all interactive elements on the page
+- Added focus effect on interactive elements
 
 ### Screenshots
 
 ![](./.docs/design/desktop-design.jpg)
 
-## :boat: My workflow
+## :boat: Development workflow
 
 ### Approach
 
@@ -41,7 +41,7 @@ Developed with mobile-first workflow.
 | `CSS`         | Vanilla CSS                        |
 | `BrowserSync` | Development server, live reloading |
 
-## Working in `fm-blog-preview-card` repository
+## :astronaut: Working in `fm-blog-preview-card` repository
 
 ### Presequisites
 
