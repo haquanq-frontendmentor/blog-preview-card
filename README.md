@@ -41,7 +41,7 @@ Accessibility
 - [x] Interactive elements have clear focus indicator.
 - [x] Page is responsive to different screen sizes.
 
-### Screenshots
+### Preview
 
 ![](./docs/design/desktop-design.jpg)
 
@@ -83,7 +83,7 @@ Then, run `npm install` to install all dependencies.
 npm install
 ```
 
-### Start development
+### Start development server
 
 In terminal, run `npm run dev` to start development server:
 
