@@ -1,5 +1,5 @@
 {
-  "name": "fm-blog-preview-card",
+  "name": "blog-preview-card",
   "description": "Solution for frontendmentor.io challenge: blog-preview-card",
   "devDependencies": {
     "browser-sync": "^3.0.2"
