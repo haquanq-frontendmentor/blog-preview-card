@@ -1,0 +1,15 @@
+{
+  "name": "Blog Preview Card",
+  "featured": false,
+  "colors": {
+    "brand": "#222222"
+  },
+  "images": {
+    "preview": "https://raw.githubusercontent.com/haquanq-frontendmentor/blog-preview-card/main/docs/preview.jpg"
+  },
+  "frontendmentor": {
+    "difficulty": "newbie",
+    "challengeUrl": "https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS",
+    "solutionUrl": "https://www.frontendmentor.io/solutions/backdrop-move-on-hovering-the-title-w-css---html-u2z4GtR-Mx"
+  }
+}
